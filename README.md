@@ -17,7 +17,7 @@ The goal is to uncover key insights related to video game sales, market performa
 
 ## Screenshots
 
-![Screenshot 2025-01-12 230034](https://github.com/user-attachments/assets/66d24f70-2e79-4d62-9120-452d4bd3702b)
+![Screenshot 2025-01-12 230034](https://github.com/user-attachments/assets/281f406c-90b2-4471-b0c0-f6d804596c1d)
 
 
 ### Insights
